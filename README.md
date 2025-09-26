@@ -2,7 +2,6 @@
 sdk_config.h
 İçeriği Nordic SDK içindeki örneklerin sdk_config.h dosyasından alabilir, aşağıdaki modülleri aktif edebilirsiniz:
 
-c
 #define NRF_DRV_TWI_ENABLED 1
 
 #define APP_TIMER_ENABLED 1
