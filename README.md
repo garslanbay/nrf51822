@@ -4,10 +4,15 @@ sdk_config.h
 
 c
 #define NRF_DRV_TWI_ENABLED 1
+
 #define APP_TIMER_ENABLED 1
+
 #define BLE_NUS_ENABLED 1
+
 #define NRF_SDH_BLE_ENABLED 1
+
 #define NRF_SDH_ENABLED 1
+
 Diğer dosyalar
 system_nrf51.c/h — Nordic SDK içinde bulunur.
 
